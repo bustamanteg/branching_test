@@ -1,6 +1,6 @@
 # branching_test
 
-This is the firs commit. 
+This is the first commit. 
 
 
 Is this comment in branch better-branch?
